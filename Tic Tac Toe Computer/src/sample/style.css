@@ -1,0 +1,43 @@
+#newGame
+{
+    -fx-text-fill: red;
+    -fx-background-color: yellow;
+    -fx-font-weight: bold;
+    -fx-border-color: red;
+}
+
+#quit
+{
+    -fx-text-fill: yellow;
+    -fx-background-color: red;
+    -fx-font-weight: bold;
+    -fx-border-color: yellow;
+}
+
+#X
+{
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: red;
+    -fx-background-color: yellow;
+    -fx-font-size: 45;
+    -fx-font-weight: bold;
+}
+
+#O
+{
+    -fx-padding: 0 0 0 0;
+    -fx-text-fill: yellow;
+    -fx-background-color: red;
+    -fx-font-size: 45;
+    -fx-font-weight: bold;
+}
+
+#top { -fx-background-color: lightskyblue; }
+
+#root { -fx-background-color: coral; }
+
+#winner
+{
+    -fx-background-color: lightskyblue;
+    -fx-font-weight: bold;
+}
